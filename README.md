@@ -1,6 +1,12 @@
 # Crime trends in the city of St. Louis
 
-This project aims to understand and classify crime trends in the city of St. Louis, MO, over the past decade (beginning in 2008).  This project leverages crime data from the St. Louis metropolitan police department, hourly weather data from NOAA, and monthly housing economy data from Zillow research.
+This project aims to understand and classify crime trends in the city of St. Louis, MO, over the past decade (beginning in 2008).  It uses crime data from the St. Louis metropolitan police department, hourly weather data from NOAA, and monthly housing economy data from Zillow research.
+
+### Analysis notebooks
+
+The data loading/cleaning notebook is: https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_cleaning.ipynb
+The data visualization notebook is: https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_plots.ipynb
+The interactive map notebook is:  https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_maps.ipynb
 
 ### Data sources
 
@@ -30,4 +36,6 @@ Information about this data is available on the linked page.
 
 ### Directory structure 
 
-The data are too large to include in this repository.  The raw data should be stored in a local `/raw_data` directory, with the subdirectories `stl_crime_data`, `stl_weather`, and `zillow`.
+The data are too large to include in this repository.  The raw data should be stored in a local `/raw_data` directory, with the subdirectories `stl_crime_data`, `stl_weather`, and `zillow`.  Feel free to message me for access to data, if interested.
+
+This is a work in progress - any comments are welcome!
