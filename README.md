@@ -4,8 +4,10 @@ This project aims to understand and classify crime trends in the city of St. Lou
 
 ### Notebooks
 
-Data loading/cleaning: https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_cleaning.ipynb
+Data loading/cleaning: https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_cleaning.ipynb 
+
 Data visualization: https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_plots.ipynb
+
 Interactive map(s):  https://github.com/ryanmwilson/StL_crime/blob/master/stl_crime_maps.ipynb
 
 ### Data sources
