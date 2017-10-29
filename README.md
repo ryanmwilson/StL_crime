@@ -2,7 +2,7 @@
 
 This project aims to understand and classify crime trends in the city of St. Louis, MO, over the past decade (beginning in 2008).  This project leverages crime data from the St. Louis metropolitan police department, hourly weather data from NOAA, and monthly housing economy data from Zillow research.
 
-## Data sources
+### Data sources
 
 The <b>crime data</b> is obtained from:
 
@@ -28,6 +28,6 @@ https://www.zillow.com/research/data/
 
 Information about this data is available on the linked page.
 
-# Directory structure 
+### Directory structure 
 
 The data are too large to include in this repository.  The raw data should be stored in a local `/raw_data` directory, with the subdirectories `stl_crime_data`, `stl_weather`, and `zillow`.
