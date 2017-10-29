@@ -27,3 +27,7 @@ The <b>housing data</b> is obtained from Zillow Research:
 https://www.zillow.com/research/data/
 
 Information about this data is available on the linked page.
+
+# Directory structure 
+
+The data are too large to include in this repository.  The raw data should be stored in a local `/raw_data` directory, with the subdirectories `stl_crime_data`, `stl_weather`, and `zillow`.
