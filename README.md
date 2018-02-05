@@ -30,14 +30,8 @@ Information about this data is included in this repository, at:
 https://github.com/ryanmwilson/StL_crime/blob/master/data_info/Weather_data_readme.pdf
 https://github.com/ryanmwilson/StL_crime/blob/master/data_info/Weather_data_codebook.pdf
 
-The <b>housing data</b> is obtained from Zillow Research:
-
-https://www.zillow.com/research/data/
-
-Information about this data is available on the linked page.
-
 ### Directory structure 
 
-The data are too large to include in this repository.  The raw data should be stored in a local `/raw_data` directory, with the subdirectories `stl_crime_data`, `stl_weather`, and `zillow`.  Feel free to message me for access to data, if interested.
+The data are too large to include in this repository.  The raw data should be stored in a local `/raw_data` directory, with the subdirectories `stl_crime_data` and `stl_weather`.  Feel free to message me for access to data, if interested.
 
 This is a work in progress - any comments are welcome!
