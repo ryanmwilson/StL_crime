@@ -1,6 +1,6 @@
 # Crime trends in the city of St. Louis
 
-This project aims to understand and classify crime trends in the city of St. Louis, MO, over the past decade (beginning in 2008).  It uses crime data from the St. Louis metropolitan police department, hourly weather data from NOAA, and monthly housing economy data from Zillow research.
+This project aims to understand and classify crime trends in the city of St. Louis, MO, over the past decade (beginning in 2008).  It uses crime data from the St. Louis metropolitan police department and hourly weather data from NOAA.
 
 ### Notebooks
 
